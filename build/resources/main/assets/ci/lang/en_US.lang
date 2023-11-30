@@ -1,0 +1,36 @@
+item.itemChocolateBar.name=Chocolate Bar
+
+item.itemBedrockSword.name=Bedrock Sword
+
+item.itemBedrockPickaxe.name=Bedrock Pickaxe
+
+item.itemBedrockAxe.name=Bedrock Axe
+
+item.itemBedrockHoe.name=Bedrock Hoe
+
+item.itemBedrockShovel.name=Bedrock Shovel
+
+item.itemObsidianPickaxe.name=Obsidian Pickaxe
+
+item.itemObsidianAxe.name=Obsidian Axe
+
+item.itemObsidianHoe.name=Obsidian Hoe
+
+item.itemObsidianSword.name=Obsidian Sword
+
+item.itemObsidianShovel.name=Obsidian Shovel
+
+tile.BlockBreakableBedrock.name=Breakable Bedrock
+
+tile.BlockBlackQuartz.name=Black Quartz
+
+item.itemBedrockHelmet.name=Bedrock Helmet
+
+item.itemBedrockChestplate.name=Bedrock Chestplate
+
+item.itemBedrockLeggings.name=Bedrock Leggings
+
+item.itemBedrockBoots.name=Bedrock Boots
+
+
+itemGroup.tabCrazyItems=Crazy Items
