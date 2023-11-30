@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ci",
+  "name": "CrazyItems",
+  "description": "This Is A Small But Crazy Mod",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Khaled"],
+  "credits": "Thanks For Mr.CrayFish. He Tought ME To Make A Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
